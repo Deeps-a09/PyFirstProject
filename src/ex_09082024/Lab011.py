@@ -1,0 +1,2 @@
+long_var_name_is_created="Hello World"
+print(long_var_name_is_created)
