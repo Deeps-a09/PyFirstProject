@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5068bf9-9281-4ce4-bc28-24f10a120cf3" name="Changes" comment="All files of 13 is commited and pushed to GIT">
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab025TableOf9.py" afterDir="false" />
+    <list default="true" id="b5068bf9-9281-4ce4-bc28-24f10a120cf3" name="Changes" comment="File containing table of 9 is commited and pushed to GIT">
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/Lab024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/Lab025TableOf9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,9 @@
     "Python.Lab022.executor": "Run",
     "Python.Lab023.executor": "Run",
     "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
     "Python.Lab025TableOf9.executor": "Run",
+    "Python.Lab026.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/spxlpt092.AzureAD"
@@ -122,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723517709621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="File containing table of 9 is commited and pushed to GIT">
+      <option name="closed" value="true" />
+      <created>1723531315012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723531315012</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +141,7 @@
     <MESSAGE value="Adding Lab002 to Git" />
     <MESSAGE value="All files of 08 and 10 ia pushed to GIT" />
     <MESSAGE value="All files of 13 is commited and pushed to GIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="All files of 13 is commited and pushed to GIT" />
+    <MESSAGE value="File containing table of 9 is commited and pushed to GIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="File containing table of 9 is commited and pushed to GIT" />
   </component>
 </project>

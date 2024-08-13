@@ -1,3 +1,5 @@
+#Task-1 Print table of nine
+
 table=9
 print(f"{table}*1={table*1}")
 print(f"{table}*2={table*2}")
