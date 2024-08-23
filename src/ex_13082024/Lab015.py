@@ -1,9 +1,10 @@
 age=65
 print(age)
 """
-age is iis variable name(identifiers)
+age is variable name(identifiers)
 = is assignment operator(right to left)
 65-> variable value
+
 """
 age=95
 print(age)

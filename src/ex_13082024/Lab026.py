@@ -3,7 +3,7 @@
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 max_number = max(a, b)
-sum = sum([a, b])
+sum = a + b
 sub = (a-b)
 multiply = (a * b)
 div = (a / b)
