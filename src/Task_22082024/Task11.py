@@ -8,7 +8,8 @@ Task #11 -
 n = int(input("Enter Number: "))
 a = 0
 b = 1
-for i in range(2, n):
+print(a, b, end=" ")
+for i in range(1, n):
     c = a + b
     print(c, end=" ")
     a = b
