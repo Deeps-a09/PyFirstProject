@@ -16,6 +16,6 @@ if num == 0 and num == 1:
     print(1)
 else:
 
- for i in range(1, num + 1):
-    factorial = factorial * i
- print(f"Factorial of {num} is {factorial}")
+    for i in range(1, num + 1):
+        factorial = factorial * i
+    print(f"Factorial of {num} is {factorial}")

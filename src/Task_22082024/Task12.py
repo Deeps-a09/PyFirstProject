@@ -13,11 +13,11 @@ class Employee:
         self.eid = eid
 
     def walk(self):
-        print("Employee " +self.name+ " is walking")
+        print("Employee " + self.name + " is walking")
         return None
 
     def talk(self):
-        print("Employee " +self.name+ " is talking")
+        print("Employee " + self.name + " is talking")
         return None
 
 
